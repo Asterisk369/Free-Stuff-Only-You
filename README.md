@@ -69,9 +69,6 @@ Discover a collection of paid cybersecurity courses in both Hindi and English! E
 ### ⚡ Reconnaissance and Footprinting
 🔗 [Reconnaissance and Footprinting Course](https://mega.nz/folder/R3xmlJoL#sAsqy9CWvJ9JvyB2Hy01sg)
 
-### ⚡ Network Scanning
-🔗 [Network Scanning Course](https://mega.nz/folder/prgzEQpb#jTyrqM62128YdQWPaMWdYg)
-
 ### ⚡ Enumeration
 🔗 [Enumeration Course](https://mega.nz/folder/crYzXbRQ#znSmksIcbSxcroW9awwuSg)
 
