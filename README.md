@@ -57,3 +57,72 @@ Welcome to Free Stuff Only You — your ultimate destination for exclusive resou
 | 20      | CF3DH-A6D02-085XY-FGP7E-QUARF    |
 | 21      | VY3RH-FFYD3-08EEY-UYNNZ-ZQHV0    |
 
+# 🛑 🔥 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐀𝐋𝐋 𝐏𝐀𝐈𝐃 𝐂𝐎𝐔𝐑𝐒𝐄 🔥 
+
+Discover a collection of paid cybersecurity courses in both Hindi and English! Enhance your skills with these valuable resources.
+
+## 📚 Course Links
+
+### ⚡ Basics
+🔗 [Basics Course](https://mega.nz/folder/RvgHWBbD#Qr6CW1O4eezqilYbE9JCPA)
+
+### ⚡ Reconnaissance and Footprinting
+🔗 [Reconnaissance and Footprinting Course](https://mega.nz/folder/R3xmlJoL#sAsqy9CWvJ9JvyB2Hy01sg)
+
+### ⚡ Network Scanning
+🔗 [Network Scanning Course](https://mega.nz/folder/prgzEQpb#jTyrqM62128YdQWPaMWdYg)
+
+### ⚡ Enumeration
+🔗 [Enumeration Course](https://mega.nz/folder/crYzXbRQ#znSmksIcbSxcroW9awwuSg)
+
+### ⚡ Firewalls HIDs Honeypot
+🔗 [Firewalls HIDs Honeypot Course](https://mega.nz/folder/ZjQTHRJI#JN_xH5K4sGOZAMRiyJogzw)
+
+### ⚡ Malware and Threats
+🔗 [Malware and Threats Course](https://mega.nz/folder/YmAnkayI#_R5S5wavmlddWy1R5a-f1Q)
+
+### ⚡ Mobile Platform
+🔗 [Mobile Platform Course](https://mega.nz/folder/hmx2HByZ#cacR-KFI8K4aDJ1Y_X5ngw)
+
+### ⚡ Pentesting
+🔗 [Pentesting Course](https://mega.nz/folder/ByYwjKYK#Hy8am8kxpSTcOiIAswbuHw)
+
+### ⚡ SQL Injection
+🔗 [SQL Injection Course](https://mega.nz/folder/9yhzxZJZ#GYJMHgCWON3NDeOejaNJFw)
+
+### ⚡ System Hacking
+🔗 [System Hacking Course](https://mega.nz/folder/5joEzRaZ#wQdCY3Fry2AO1fF51qU4zw)
+
+### ⚡ Web Application
+🔗 [Web Application Course](https://mega.nz/folder/UzZ0RY5A#o4ot_zZ2GFk8F3zukKx4cg)
+
+### ⚡ Wireless Network
+🔗 [Wireless Network Course](https://mega.nz/folder/4yADhTya#vI6hhy5O_SnNlERU0lJPxQ)
+
+### ⚡ Cloud Computing
+🔗 [Cloud Computing Course](https://mega.nz/folder/hqIHAKLT#5q-KX8iZMx6nR5hdkyFprA)
+
+### ⚡ Web Server
+🔗 [Web Server Course](https://mega.nz/folder/R6pUXQwQ#e2Tis8f8oieYMRhF3mQUVw)
+
+### ⚡ Social Engineering
+🔗 [Social Engineering Course](https://mega.nz/folder/EvpBVQhJ#j_kiUrVSEHEp3kEeev1G7Q)
+
+### ⚡ Session Hijacking
+🔗 [Session Hijacking Course](https://mega.nz/folder/s2IWnRZa#ohOdmvc6k3ohjaNajGHyEw)
+
+### ⚡ Sniffing
+🔗 [Sniffing Course](https://mega.nz/folder/I7YWyZpQ#2oBurj7dDnC07Lh-)
+
+### ⚡ Buffer Overflow
+🔗 [Buffer Overflow Course](https://mega.nz/folder/97J32IgT#8b4ko2DE34rS5hM115Oc8g)
+
+### ⚡ Cryptography
+🔗 [Cryptography Course](https://mega.nz/folder/sjZTmQpR#DCMDCfh8wgB7XMyE1GciIw)
+
+### ⚡ Denial Of Service
+🔗 [Denial Of Service Course](https://mega.nz/folder/Vv4ijKoI#L_m1i9uGhcFUug6UlXWjvw)
+
+---
+
+Enjoy! 😉🔥
